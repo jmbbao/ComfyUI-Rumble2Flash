@@ -32,13 +32,11 @@ You will have now: `ComfyUI/custom_nodes/ComfyUI-Rumble2Flash`.
 You will probably have already all the dependencies so you can go to step 4 for the workflows and just try it in ComfyUI.
 If it gives error then you need to install the dependencies:
 
-
-
 **2) Install the dependencies:**
 
-(ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
+(The below instructions are for Linux with venv, ask ChatGPT or any other AI to give you the exact steps for your system, give it this whole text)
 
-For example in Linux with venv environment it is:
+For Linux with venv environment it is:
 Close ComfyUI, open a terminal inside of /ComfyUI folder. Enter the environment: 
 ```bash
 cd ComfyUI
@@ -50,13 +48,8 @@ Now enter the node folder and install the dependencies with pip:
 cd custom_nodes/ComfyUI-Rumble2Flash
 pip install -r requirements.txt
 ```
-(ask ChatGPT or any other AI to give you the exact steps for windows or any other variation different of Linux with venv)
-
-
 
 **3) Start ComfyUI** and drag any of the workflows from the `examples/` folder into ComfyUI.
-
-
 
 **4) Included workflows:**
 
