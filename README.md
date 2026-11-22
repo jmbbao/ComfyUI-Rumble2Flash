@@ -33,6 +33,7 @@ You will probably have already all the dependencies so you can go to step 4 for 
 If it gives error then you need to install the dependencies:
 
 
+
 **2)** Install the dependencies:
 
 (ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
@@ -52,7 +53,9 @@ pip install -r requirements.txt
 (ask ChatGPT or any other AI to give you the exact steps for windows or any other variation different of Linux with venv)
 
 
+
 **3)** Restart ComfyUI and drag any of the workflows from the `examples/` folder into ComfyUI.
+
 
 
 **4)** Included workflows:
