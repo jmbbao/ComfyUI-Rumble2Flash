@@ -30,7 +30,7 @@ If it gives error then you need to install the dependencies:
 
 **2)** Install the dependencies:
 
-Close ComfyUI, open a terminal inside of /ComfyUI folder. Now enter the environment. For example in Linux with venv is:
+Close ComfyUI, open a terminal inside of /ComfyUI folder. Now enter the environment. For example in Linux with venv: (ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
 ```bash
 cd ComfyUI
 source venv/bin/activate
