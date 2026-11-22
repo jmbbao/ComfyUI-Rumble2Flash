@@ -29,13 +29,16 @@ If it gives error then you need to install the dependencies:
 
 
 **2)** Install the dependencies:
+(ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
 
-Close ComfyUI, open a terminal inside of /ComfyUI folder. Now enter the environment. For example in Linux with venv: (ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
+For example in Linux with venv environment it is:
+Close ComfyUI, open a terminal inside of /ComfyUI folder. Enter the environment: 
 ```bash
 cd ComfyUI
 source venv/bin/activate
 ```
-Now the terminal changed showing you are inside the environment, so the pip order will place the packs in the environment folder instead of in the system of the computer. So we enter the node folder and install the dependencies:
+The terminal shows you are inside the environment, so the pip order will place the packs inside the environment folder and not in the system of the computer. 
+Now enter the node folder and install the dependencies with pip:
 ```bash
 cd custom_nodes/ComfyUI-Rumble2Flash
 pip install -r requirements.txt
