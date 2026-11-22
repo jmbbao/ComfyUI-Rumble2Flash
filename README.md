@@ -18,12 +18,16 @@ Custom nodes for running the **[Reson8/Rumble-2-Flash](https://huggingface.co/Re
 
 ## INSTALLATION
 
-**1)** Click on the green "Code" button on the top of this page and choose "Download zip". Unzip the content into `ComfyUI/custom_nodes/`, and rename the folder removing the "-main" at the end of the name, you will have now: `ComfyUI/custom_nodes/ComfyUI-Rumble2Flash`.
-
-Or you can open a terminal in /ComfyUI/custom_nodes and use:
+**1)** Downloading the node:
+Open a terminal in /ComfyUI/custom_nodes and use this order:
 ```bash
 git clone https://github.com/jmbbao/ComfyUI-Rumble2Flash.git
 ```
+
+Or click the green button "Code" at the top of this page and choose "Download zip". Unzip the content into `ComfyUI/custom_nodes/`, and rename the folder removing the "-main" at the end of the name.
+
+You will have now: `ComfyUI/custom_nodes/ComfyUI-Rumble2Flash`.
+
 You will probably have already all the dependencies so you can go to step 4 for the workflows and just try it in ComfyUI.
 If it gives error then you need to install the dependencies:
 
