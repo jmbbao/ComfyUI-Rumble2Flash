@@ -19,6 +19,7 @@ Custom nodes for running the **[Reson8/Rumble-2-Flash](https://huggingface.co/Re
 ## INSTALLATION
 
 **1)** Downloading the node:
+
 Open a terminal in /ComfyUI/custom_nodes and use this order:
 ```bash
 git clone https://github.com/jmbbao/ComfyUI-Rumble2Flash.git
@@ -33,6 +34,7 @@ If it gives error then you need to install the dependencies:
 
 
 **2)** Install the dependencies:
+
 (ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
 
 For example in Linux with venv environment it is:
@@ -53,7 +55,7 @@ pip install -r requirements.txt
 **3)** Restart ComfyUI and drag any of the workflows from the `examples/` folder into ComfyUI.
 
 
-**4)** Included workflows
+**4)** Included workflows:
 
 There are 2 workflows in /custom_nodes/ComfyUI-Rumble2Flash/examples/  you can just drag them to ComfyUI window
 
