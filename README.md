@@ -34,7 +34,7 @@ If it gives error then you need to install the dependencies:
 
 
 
-**2)** Install the dependencies:
+**2) Install the dependencies:**
 
 (ask ChatGPT or any other AI to give you the exact steps for your system, give to it this whole text)
 
@@ -54,11 +54,11 @@ pip install -r requirements.txt
 
 
 
-**3)** Restart ComfyUI and drag any of the workflows from the `examples/` folder into ComfyUI.
+**3) Start ComfyUI** and drag any of the workflows from the `examples/` folder into ComfyUI.
 
 
 
-**4)** Included workflows:
+**4) Included workflows:**
 
 There are 2 workflows in /custom_nodes/ComfyUI-Rumble2Flash/examples/  you can just drag them to ComfyUI window
 
