@@ -18,7 +18,7 @@ Custom nodes for running the **[Reson8/Rumble-2-Flash](https://huggingface.co/Re
 
 ## INSTALLATION
 
-**1)** Downloading the node:
+**1) Downloading the node:**
 
 Open a terminal in /ComfyUI/custom_nodes and use this order:
 ```bash
