@@ -18,7 +18,7 @@ Custom nodes for running the **[Reson8/Rumble-2-Flash](https://huggingface.co/Re
 
 ## INSTALLATION
 
-**1)** Click on the green "Code" button to download the zip. Unzip the content into `ComfyUI/custom_nodes/`, you will have `ComfyUI/custom_nodes/ComfyUI-Rumble2Flash`.
+**1)** Click on the green "Code" button on the top of this page and choose "Download zip". Unzip the content into `ComfyUI/custom_nodes/`, and rename the folder removing the "-main" at the end of the name, you will have now: `ComfyUI/custom_nodes/ComfyUI-Rumble2Flash`.
 
 Or you can open a terminal in /ComfyUI/custom_nodes and use:
 
