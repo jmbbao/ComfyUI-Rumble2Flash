@@ -35,13 +35,9 @@ Close ComfyUI, open a terminal inside of /ComfyUI folder. Now enter the environm
 cd ComfyUI
 source venv/bin/activate
 ```
-Now the terminal changed showing you are inside the environment. Now go to the node folder:
+Now the terminal changed showing you are inside the environment, so the pip order will place the packs in the environment folder instead of in the system of the computer. So we enter the node folder and install the dependencies:
 ```bash
 cd custom_nodes/ComfyUI-Rumble2Flash
-```
-And install the dependencies with:
-Linux:
-```bash
 pip install -r requirements.txt
 ```
 (ask ChatGPT or any other AI to give you the exact steps for windows or any other variation different of Linux with venv)
